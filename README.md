@@ -1,2 +1,2 @@
 # WeatherInformationSystem
-You can see the current weather information via the website which is built using third-party API
+Web application allow users to know the current weather information in any country.
